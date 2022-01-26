@@ -8,12 +8,12 @@ The SQLAlchemy assignment required an analysis of Hawaii climate data from a loc
 The database comprised two tables that included precipitation and temperature data from nine weather stations.  
 
 The assignment required the use of the following components to conduct the analysis:  
-    Jupyter Notebook  
-    SQLAlchemy  
-    Pandas  
-    Python  
-    Matplotlib  
-    Flask  
+* Jupyter Notebook  
+* SQLAlchemy  
+* Pandas  
+* Python  
+* Matplotlib  
+* Flask  
  
 Jupyter Notebook, SQLAlchemy, Pandas, Python, and Matplotlib were used to conduct the climate analysis and data exploration. Flask was then used to develop an API based on the results of the climate analysis.
 
@@ -22,11 +22,11 @@ https://monash.bootcampcontent.com/monash-coding-bootcamp/monu-virt-data-11-2021
 
 
 The “10_sqlalchemy_challenge” directory contains the following files submitted for assessment:  
-    “10_readme_details_mm” – a step by step, detailed description of the analyses and their results,  
-    “climate_starter_mm” – the jupyter notebook for the Climate Analysis,  
-    analysis_bonus_1_mm” - the jupyter notebook for the Analysis Bonus I,  
-    “analysis_bonus_2_mm” - the jupyter notebook for the Analysis Bonus II,  
-    “flask_climate_starter_mm” – the Flask Analysis App.  
+* “10_readme_details_mm” – a step by step, detailed description of the analyses and their results,  
+* “climate_starter_mm” – the jupyter notebook for the Climate Analysis,  
+* "analysis_bonus_1_mm” - the jupyter notebook for the Analysis Bonus I,  
+* “analysis_bonus_2_mm” - the jupyter notebook for the Analysis Bonus II,    
+* “flask_climate_starter_mm” – the Flask Analysis App.  
     
 
 ## Author:	Mike Murphy
